@@ -1,16 +1,17 @@
-## Hi there 👋
+# DRAGE Co
 
-🙋‍♀️ Welcome to DRAGE Co, an Australian based company working on big ideas for people to use and enjoy.
+👋 Hi there! Welcome to DRAGE Co!
 
-🌈 We would love to see new people join us on our adventure in this big world!
+We're an Australian-based company passionate about developing innovative and enjoyable products for everyone.  We're excited to have you here!
 
-👩‍💻 If you would like to gain some more information, you can talk to DRAGEno01 through Discord (@DRAGEno01).
+## About Us
 
-🍿 Our team is just two people as of August 2024.
+At DRAGE Co, we believe in the power of big ideas. We're a small but dedicated team, currently consisting of two members (as of August 2024), working hard to bring our vision to life.  We're always looking for talented and enthusiastic individuals to join us on our adventure!
 
+## Contact Us
 
-<!-- We gonna leave these comment lines in, because they are cool... -->
-<!--
-**Here are some ideas to get you started:**
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* **Discord:** @DRAGEno01
+
+---
+
+We're excited to have you explore DRAGE Co!  Let's build something amazing together!
